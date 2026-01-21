@@ -1,0 +1,25 @@
+[index.html](https://github.com/user-attachments/files/24776470/index.html)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>HCI2101 - YAZAN MOHAMMED SAEED ALGHAMDI</title>
+<style>
+body { font-family: 'Inter', sans-serif; background: #0f172a; color: white; display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0; }
+.glass-card { background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); padding: 50px; border-radius: 24px; border: 1px solid rgba(255,255,255,0.1); text-align: center; }
+h1 { color: #38bdf8; font-size: 3rem; margin: 0; }
+.meta { margin-top: 20px; font-size: 1.2rem; color: #94a3b8; }
+</style>
+</head>
+<body>
+<div class="glass-card">
+<p>I am Student</p>
+<h1>YAZAN MOHAMMED SAEED ALGHAMDI</h1>
+<h2>يزن محمد بن سعيد الغامدي</h2>
+<div class="meta">
+<p>Practical Section: 2</p>
+<p>Course: HCI2101 | Instructor: Mohammed Jabali</p>
+</div>
+</div>
+</body>
+</html>
